@@ -1,6 +1,6 @@
 # JCS Computer Science Assignment
 
-## Make sure to enable GitHub Pages in Settings -> Options -> GitHub Pages -> Branch:Main 
+**Make sure to enable GitHub Pages in Settings -> Options -> GitHub Pages -> Branch:Main**
 
 ## Git/GitHub Workflow:
 * **clone** this repository to a folder on your computer
