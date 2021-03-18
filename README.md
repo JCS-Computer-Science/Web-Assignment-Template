@@ -2,6 +2,7 @@
 
 ## Make sure to enable GitHub Pages in Settings -> Options -> GitHub Pages -> Branch:Main 
 
+## Git/GitHub Workflow:
 * **clone** this repository to a folder on your computer
 * **commit** changes to your assignment as you go
 * **push** your local repo to github at the end of each work session
